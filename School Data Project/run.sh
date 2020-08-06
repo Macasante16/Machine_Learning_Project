@@ -1,1 +1,0 @@
-FLASK_APP=school_data.app.py flask run
