@@ -1,0 +1,22 @@
+.jumbotron {
+    background-color: #0092cc;
+}
+
+header {
+    font-size: 60px;
+    color: white;
+}
+
+subheader {
+    font-size: 30px;
+    color: #e8e8e9;
+}
+.plot {
+    margin-left: auto;
+    margin-right: auto;
+}
+.dataframe {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto 
+}
